@@ -39,6 +39,11 @@
     <keyboard-shortcut first-keystroke="ctrl alt 7" />
   </action>
   <action id="GotoFile" />
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="Images.Thumbnails.EnterAction" />
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="ctrl o" />
