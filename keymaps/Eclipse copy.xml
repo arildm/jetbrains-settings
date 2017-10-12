@@ -4,7 +4,9 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
-  <action id="Console.Execute" />
+  <action id="Console.Execute">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="Console.TableResult.ColumnsList">
     <keyboard-shortcut first-keystroke="ctrl f3" />
   </action>
