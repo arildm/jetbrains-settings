@@ -1,7 +1,6 @@
 <code_scheme name="Default">
   <option name="RIGHT_MARGIN" value="80" />
   <PHPCodeStyleSettings>
-    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_ASSIGNMENTS" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
@@ -20,6 +19,10 @@
     <option name="OPTIMIZE_IMPORTS_SORT_BY_TYPE_FIRST" value="false" />
     <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
   </Python>
+  <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="80" />
+    <option name="WRAP_ON_TYPING" value="0" />
+  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="CLASS_BRACE_STYLE" value="1" />
