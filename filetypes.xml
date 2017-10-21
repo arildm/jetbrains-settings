@@ -6,7 +6,9 @@
       <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping pattern="terms" type="PLAIN_TEXT" />
       <mapping ext="words" type="PLAIN_TEXT" />
+      <mapping ext="lst" type="PLAIN_TEXT" />
       <mapping ext="info" type="Ini" />
     </extensionMap>
   </component>
