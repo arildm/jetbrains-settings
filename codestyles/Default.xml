@@ -22,6 +22,8 @@
   </Python>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="0" />
+    <option name="XML_TEXT_WRAP" value="0" />
+    <option name="XML_ALIGN_ATTRIBUTES" value="false" />
   </XML>
   <codeStyleSettings language="HTML">
     <option name="RIGHT_MARGIN" value="80" />
