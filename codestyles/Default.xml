@@ -20,6 +20,11 @@
     <option name="OPTIMIZE_IMPORTS_SORT_BY_TYPE_FIRST" value="false" />
     <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
   </Python>
+  <XML>
+    <option name="XML_ATTRIBUTE_WRAP" value="0" />
+    <option name="XML_TEXT_WRAP" value="0" />
+    <option name="XML_ALIGN_ATTRIBUTES" value="false" />
+  </XML>
   <codeStyleSettings language="HTML">
     <option name="RIGHT_MARGIN" value="80" />
     <option name="WRAP_ON_TYPING" value="0" />
