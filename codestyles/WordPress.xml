@@ -1,5 +1,11 @@
-<code_scheme name="WordPress">
+<code_scheme name="WordPress" version="173">
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  </HTMLCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
