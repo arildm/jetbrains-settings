@@ -1,6 +1,5 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="80" />
-  <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   </HTMLCodeStyleSettings>
@@ -70,6 +69,7 @@
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
+    <option name="BLANK_LINES_BEFORE_CLASS_END" value="1" />
     <option name="CLASS_BRACE_STYLE" value="1" />
     <option name="METHOD_BRACE_STYLE" value="1" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
