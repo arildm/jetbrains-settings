@@ -27,5 +27,6 @@
     <mask>sb_*</mask>
     <mask>*.yml</mask>
     <mask>*.module</mask>
+    <mask>*Formatter.php</mask>
   </component>
 </application>
