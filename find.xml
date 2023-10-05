@@ -30,5 +30,6 @@
     <mask>*Formatter.php</mask>
     <mask>*.html.twig</mask>
     <mask>*.twig,*.scss</mask>
+    <mask>*css</mask>
   </component>
 </application>
